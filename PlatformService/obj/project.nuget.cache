@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "43OiTB4p2zypqSQ3062nVqMFdh7HRnjMgCh8ZajKV3V9wL3/wpvkFz3+cETo/w+6FYN8IB6LuSxrVepgj4DMWg==",
+  "dgSpecHash": "jEq+PLwO9mLpENfkQRgONJXsddWG+PM5FBy6FGLaqSvNF+qMkE7drwWLpkwNJS0ToWTTdYxOqEU6nZ++QpkwAw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Microservices\\PlatformService\\PlatformService.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Microservices\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

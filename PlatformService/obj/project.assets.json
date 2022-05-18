@@ -6084,11 +6084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Microservices\\PlatformService\\PlatformService.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Microservices\\PlatformService\\PlatformService.csproj",
       "projectName": "PlatformService",
-      "projectPath": "c:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Microservices\\PlatformService\\PlatformService.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Microservices\\PlatformService\\PlatformService.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Microservices\\PlatformService\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Microservices\\PlatformService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6103,6 +6103,8 @@
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6166,7 +6168,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }
