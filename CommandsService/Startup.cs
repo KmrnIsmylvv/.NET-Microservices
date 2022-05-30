@@ -11,7 +11,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CommandsService
+namespace CommandService
 {
     public class Startup
     {
@@ -29,7 +29,7 @@ namespace CommandsService
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "CommandsService", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "CommandService", Version = "v1" });
             });
         }
 
@@ -40,7 +40,7 @@ namespace CommandsService
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "CommandsService v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "CommandService v1"));
             }
 
             app.UseRouting();

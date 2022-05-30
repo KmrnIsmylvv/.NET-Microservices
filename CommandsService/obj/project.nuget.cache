@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5IuYw1UUZ+GWq84wBUSOooGbeU0MrRmv5OJl3jI/sR7lk9lu6sXWbTCdbs2HmNozwV0FrBpWrkPUFfVZJZbDhQ==",
+  "dgSpecHash": "08C1pCmQcInUyW1/G9Naq0CRu/YCYABozaSj4wVe7T6bFlVE09+yVjMvewiA8X2u12zpf9i5qC0cxX2fZkeFyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Microservices\\CommandsService\\CommandsService.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Microservices\\CommandsService\\CommandService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
