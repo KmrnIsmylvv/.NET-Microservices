@@ -1,0 +1,12 @@
+.\.idea\
+.\.vs\
+
+.\PlatformService\.idea\
+.\PlatformService\.vs\
+.\PlatformService\appsettings.Development.json
+.\PlatformService\appsettings.json
+.\PlatformService\appsettings.Production.json
+
+.\CommandsService\appsettings.Development.json
+.\CommandsService\appsettings.json
+
