@@ -84,3 +84,7 @@ C:\Users\HP\Desktop\Kamran\Programming\.NET Microservices\CommandsService\obj\De
 C:\Users\HP\Desktop\Kamran\Programming\.NET Microservices\CommandsService\obj\Debug\net5.0\ref\CommandService.dll
 C:\Users\HP\Desktop\Kamran\Programming\.NET Microservices\CommandsService\bin\Debug\net5.0\appsettings.Production.json
 C:\Users\HP\Desktop\Kamran\Programming\.NET Microservices\CommandsService\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\HP\Desktop\Kamran\Programming\.NET Microservices\CommandsService\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\HP\Desktop\Kamran\Programming\.NET Microservices\CommandsService\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\HP\Desktop\Kamran\Programming\.NET Microservices\CommandsService\bin\Debug\net5.0\Grpc.Net.Client.dll
+C:\Users\HP\Desktop\Kamran\Programming\.NET Microservices\CommandsService\bin\Debug\net5.0\Grpc.Net.Common.dll
