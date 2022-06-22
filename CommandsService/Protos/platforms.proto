@@ -14,6 +14,6 @@ message GrpcPlatformModel{
     string publisher = 3;
 }
 
-message PlatformResponse {
+message PlatformResponse {  
     repeated GrpcPlatformModel platform = 1;
 }
